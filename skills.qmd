@@ -1,0 +1,64 @@
+---
+title: "Technical Skills"
+---
+
+## Environmental Assessment & Sustainability
+
+- Life Cycle Assessment (LCA)
+- Life Cycle Costing (LCC)
+- Greenhouse Gas Inventories
+- Input-Output Analysis
+- Carbon Accounting
+- Sustainability Assessment
+
+------------------------------------------------------------------------
+
+## Programming & Quantitative Analysis
+
+- R
+- MATLAB
+- Stata
+- Statistical Analysis
+- Scenario Analysis
+- Environmental-Economic Modeling
+
+------------------------------------------------------------------------
+
+## Software & Platforms
+
+- OpenLCA
+- SimaPro
+- COMET-Farm
+- Quarto
+- R Markdown
+- Microsoft Excel
+- Origin
+
+------------------------------------------------------------------------
+
+## Environmental Data Science
+
+- Data Cleaning
+- Data Visualization
+- Reproducible Reporting
+- Environmental Dataset Analysis
+- Sustainability Metrics Analysis
+
+------------------------------------------------------------------------
+
+## Research Areas
+
+- Carbon Management
+- Environmental Economics
+- ESG Evaluation
+- Renewable Energy Policy
+- Agricultural Sustainability
+- Soil Carbon
+- Greenhouse Gas Mitigation
+
+------------------------------------------------------------------------
+
+## Languages
+
+- Mandarin Chinese (Native)
+- English (Fluent)

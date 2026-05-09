@@ -1,0 +1,240 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Technical Skills",
+    "section": "",
+    "text": "Life Cycle Assessment (LCA)\nLife Cycle Costing (LCC)\nGreenhouse Gas Inventories\nInput-Output Analysis\nCarbon Accounting\nSustainability Assessment"
+  },
+  {
+    "objectID": "skills.html#environmental-assessment-sustainability",
+    "href": "skills.html#environmental-assessment-sustainability",
+    "title": "Technical Skills",
+    "section": "",
+    "text": "Life Cycle Assessment (LCA)\nLife Cycle Costing (LCC)\nGreenhouse Gas Inventories\nInput-Output Analysis\nCarbon Accounting\nSustainability Assessment"
+  },
+  {
+    "objectID": "skills.html#programming-quantitative-analysis",
+    "href": "skills.html#programming-quantitative-analysis",
+    "title": "Technical Skills",
+    "section": "Programming & Quantitative Analysis",
+    "text": "Programming & Quantitative Analysis\n\nR\nMATLAB\nStata\nStatistical Analysis\nScenario Analysis\nEnvironmental-Economic Modeling"
+  },
+  {
+    "objectID": "skills.html#software-platforms",
+    "href": "skills.html#software-platforms",
+    "title": "Technical Skills",
+    "section": "Software & Platforms",
+    "text": "Software & Platforms\n\nOpenLCA\nSimaPro\nCOMET-Farm\nQuarto\nR Markdown\nMicrosoft Excel\nOrigin"
+  },
+  {
+    "objectID": "skills.html#environmental-data-science",
+    "href": "skills.html#environmental-data-science",
+    "title": "Technical Skills",
+    "section": "Environmental Data Science",
+    "text": "Environmental Data Science\n\nData Cleaning\nData Visualization\nReproducible Reporting\nEnvironmental Dataset Analysis\nSustainability Metrics Analysis"
+  },
+  {
+    "objectID": "skills.html#research-areas",
+    "href": "skills.html#research-areas",
+    "title": "Technical Skills",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nCarbon Management\nEnvironmental Economics\nESG Evaluation\nRenewable Energy Policy\nAgricultural Sustainability\nSoil Carbon\nGreenhouse Gas Mitigation"
+  },
+  {
+    "objectID": "skills.html#languages",
+    "href": "skills.html#languages",
+    "title": "Technical Skills",
+    "section": "Languages",
+    "text": "Languages\n\nMandarin Chinese (Native)\nEnglish (Fluent)"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "This page highlights examples of reproducible data analysis and visualization workflows created using R and Quarto.\n\n\n\nThe figure below demonstrates a simple greenhouse gas emissions trend analysis using R and ggplot2.\n\nlibrary(ggplot2)\n\nemissions &lt;- data.frame(\n  Year = c(2019, 2020, 2021, 2022, 2023),\n  Emissions = c(125, 118, 110, 97, 85)\n)\n\nggplot(emissions, aes(x = Year, y = Emissions)) +\n  geom_line(linewidth = 1.2, color = \"#2C7FB8\") +\n  geom_point(size = 3, color = \"#1B7837\") +\n  labs(\n    x = \"Year\",\n    y = \"GHG Emissions (t CO2-eq)\",\n    title = \"Greenhouse Gas Emissions Trend\"\n  ) +\n  theme_minimal(base_size = 14)\n\n\n\n\n\n\n\nFigure 1: Example greenhouse gas emissions trend\n\n\n\n\n\n\n\n\n\nThis section demonstrates simple data summarization using reproducible R workflows.\n\nlibrary(dplyr)\n\nsustainability_data &lt;- data.frame(\n  Sector = c(\"Energy\", \"Agriculture\", \"Transportation\", \"Industry\"),\n  Reduction = c(32, 18, 24, 15)\n)\n\nsustainability_data %&gt;%\n  arrange(desc(Reduction))\n\n          Sector Reduction\n1         Energy        32\n2 Transportation        24\n3    Agriculture        18\n4       Industry        15\n\n\n\n\n\n\nThe following code chunk demonstrates a basic reproducible workflow used in environmental data analysis.\n\n\n\n\n\n\nNoteView R Code\n\n\n\n\n\n\nmean_emissions &lt;- mean(emissions$Emissions)\n\npaste(\n  \"Average emissions across all years:\",\n  round(mean_emissions, 2),\n  \"t CO2-eq\"\n)\n\n[1] \"Average emissions across all years: 107 t CO2-eq\"\n\n\n\n\n\n\n\n\n\n\nReproducible reporting with Quarto\nData visualization using ggplot2\nData manipulation using dplyr\nEnvironmental data analysis workflows in R\nDynamic document generation"
+  },
+  {
+    "objectID": "portfolio.html#carbon-emissions-visualization",
+    "href": "portfolio.html#carbon-emissions-visualization",
+    "title": "Portfolio",
+    "section": "",
+    "text": "The figure below demonstrates a simple greenhouse gas emissions trend analysis using R and ggplot2.\n\nlibrary(ggplot2)\n\nemissions &lt;- data.frame(\n  Year = c(2019, 2020, 2021, 2022, 2023),\n  Emissions = c(125, 118, 110, 97, 85)\n)\n\nggplot(emissions, aes(x = Year, y = Emissions)) +\n  geom_line(linewidth = 1.2, color = \"#2C7FB8\") +\n  geom_point(size = 3, color = \"#1B7837\") +\n  labs(\n    x = \"Year\",\n    y = \"GHG Emissions (t CO2-eq)\",\n    title = \"Greenhouse Gas Emissions Trend\"\n  ) +\n  theme_minimal(base_size = 14)\n\n\n\n\n\n\n\nFigure 1: Example greenhouse gas emissions trend"
+  },
+  {
+    "objectID": "portfolio.html#sustainability-summary-table",
+    "href": "portfolio.html#sustainability-summary-table",
+    "title": "Portfolio",
+    "section": "",
+    "text": "This section demonstrates simple data summarization using reproducible R workflows.\n\nlibrary(dplyr)\n\nsustainability_data &lt;- data.frame(\n  Sector = c(\"Energy\", \"Agriculture\", \"Transportation\", \"Industry\"),\n  Reduction = c(32, 18, 24, 15)\n)\n\nsustainability_data %&gt;%\n  arrange(desc(Reduction))\n\n          Sector Reduction\n1         Energy        32\n2 Transportation        24\n3    Agriculture        18\n4       Industry        15"
+  },
+  {
+    "objectID": "portfolio.html#reproducible-workflow-example",
+    "href": "portfolio.html#reproducible-workflow-example",
+    "title": "Portfolio",
+    "section": "",
+    "text": "The following code chunk demonstrates a basic reproducible workflow used in environmental data analysis.\n\n\n\n\n\n\nNoteView R Code\n\n\n\n\n\n\nmean_emissions &lt;- mean(emissions$Emissions)\n\npaste(\n  \"Average emissions across all years:\",\n  round(mean_emissions, 2),\n  \"t CO2-eq\"\n)\n\n[1] \"Average emissions across all years: 107 t CO2-eq\""
+  },
+  {
+    "objectID": "portfolio.html#technical-skills-demonstrated",
+    "href": "portfolio.html#technical-skills-demonstrated",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Reproducible reporting with Quarto\nData visualization using ggplot2\nData manipulation using dplyr\nEnvironmental data analysis workflows in R\nDynamic document generation"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can view or download my CV below.\nDownload CV"
+  },
+  {
+    "objectID": "cv.html#embedded-cv",
+    "href": "cv.html#embedded-cv",
+    "title": "Curriculum Vitae",
+    "section": "Embedded CV",
+    "text": "Embedded CV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a graduate student in Ecosystem Science & Sustainability at Colorado State University with a focus on carbon management, environmental assessment, and environmental data science.\nMy academic background combines environmental economics, sustainability assessment, and quantitative analysis. Before joining Colorado State University, I studied economics and environmental-economic systems in China, where I became interested in the relationship between environmental sustainability, energy systems, and climate policy.\nMy current research interests include life cycle assessment (LCA), greenhouse gas inventories, carbon accounting, environmental-economic modeling, and sustainability analysis. I am particularly interested in applying quantitative and data-driven approaches to support low-carbon decision-making in agriculture and energy systems."
+  },
+  {
+    "objectID": "about.html#research-philosophy",
+    "href": "about.html#research-philosophy",
+    "title": "About Me",
+    "section": "Research Philosophy",
+    "text": "Research Philosophy\nI am interested in interdisciplinary approaches that integrate environmental science, economics, and data analysis to better understand sustainability challenges and climate mitigation pathways.\nI believe combining quantitative modeling, environmental assessment, and policy analysis can help support more practical and evidence-based sustainability decisions."
+  },
+  {
+    "objectID": "about.html#academic-interests",
+    "href": "about.html#academic-interests",
+    "title": "About Me",
+    "section": "Academic Interests",
+    "text": "Academic Interests\n\nCarbon Management\nLife Cycle Assessment (LCA)\nGreenhouse Gas Inventories\nEnvironmental Data Science\nEnvironmental Economics\nESG & Sustainability\nAgricultural Sustainability"
+  },
+  {
+    "objectID": "about.html#current-focus",
+    "href": "about.html#current-focus",
+    "title": "About Me",
+    "section": "Current Focus",
+    "text": "Current Focus\nMy recent work includes:\n\nLCA-LCC assessment of Synthetic Humic Substance (SHS) production\nGreenhouse gas inventory analysis using IPCC methods\nEnvironmental-economic modeling and sustainability analysis\nRenewable energy and climate policy research"
+  },
+  {
+    "objectID": "about.html#professional-interests",
+    "href": "about.html#professional-interests",
+    "title": "About Me",
+    "section": "Professional Interests",
+    "text": "Professional Interests\nI am interested in future opportunities related to:\n\nSustainability research\nCarbon accounting and mitigation\nESG analysis\nEnvironmental consulting\nClimate and energy policy\nEnvironmental data analytics"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Xinran Zhou",
+    "section": "",
+    "text": "Graduate Student in Ecosystem Science & Sustainability\nColorado State University\nFocused on carbon management, environmental data science, and sustainability assessment through life cycle analysis, greenhouse gas accounting, and quantitative environmental-economic research."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Xinran Zhou",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research interests focus on carbon management, greenhouse gas inventories, life cycle assessment (LCA), and environmental-economic analysis. I am particularly interested in applying quantitative modeling and data-driven methods to support low-carbon decision-making in agriculture and energy systems."
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Xinran Zhou",
+    "section": "Current Research",
+    "text": "Current Research\n\nLCA-LCC Assessment of Synthetic Humic Substance (SHS) Production and Agricultural Application\n\nFirst-author research on four hydrothermal humification technologies for SHS production in China\nEvaluating environmental impacts, economic costs, and process hotspots\nAssessing mitigation potential under regional energy transition scenarios\nUsing Simapro, CHINA-SDU-LCIA, and province-level analysis frameworks\n\n\n\nGreenhouse Gas Inventory Analysis\n\nEstimating emissions using IPCC-based methods and process-based models\nConducting mitigation analysis in R and COMET-Farm\nDeveloping scenario-based mitigation strategies for agricultural systems\n\n\n\nEnvironmental Data Science Applications\n\nCleaning, analyzing, and visualizing environmental datasets in R\nProducing reproducible sustainability analyses and technical reports\nApplying statistical methods to evaluate environmental indicators and emissions trends"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Xinran Zhou",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nEnvironmental Assessment\n\nLife Cycle Assessment (LCA)\nLife Cycle Costing (LCC)\nGreenhouse Gas Inventories\nInput-Output Analysis\n\n\n\nProgramming & Software\n\nR\nMATLAB\nStata\nOpenLCA\nSimaPro\nCOMET-Farm\n\n\n\nData Analysis & Reporting\n\nR Markdown\nQuarto\nMicrosoft Excel\nOrigin\nReproducible Reporting"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Xinran Zhou",
+    "section": "Education",
+    "text": "Education\n\nColorado State University\nProfessional Science Master in Ecosystem Science & Sustainability (Carbon Management)\n\n\nShandong University, China\nM.S. in Population, Resources & Environmental Economics\n\n\nChina University of Geosciences (Wuhan), China\nB.A. in Economics, with Distinction"
+  },
+  {
+    "objectID": "index.html#selected-honors",
+    "href": "index.html#selected-honors",
+    "title": "Xinran Zhou",
+    "section": "Selected Honors",
+    "text": "Selected Honors\n\nNational Scholarship (2023), China\nNational Energy Economics Innovation Competition, Second Prize (National-level), China\nInternational “Internet+” Innovation & Entrepreneurship Competition, Bronze Award, China\nNational English Debate Competition, Third Prize, China"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "First-author research evaluating four hydrothermal humification technologies for Synthetic Humic Substance (SHS) production in China.\n\n\n\n\nLife Cycle Assessment (LCA)\nLife Cycle Costing (LCC)\nSimapro\nProvince-level scenario analysis\n\n\n\n\n\nEnvironmental hotspot analysis\nCarbon mitigation potential\nRegional energy transition scenarios\nAgricultural application benefits"
+  },
+  {
+    "objectID": "projects.html#lca-lcc-assessment-of-synthetic-humic-substance-shs-production-and-agricultural-application",
+    "href": "projects.html#lca-lcc-assessment-of-synthetic-humic-substance-shs-production-and-agricultural-application",
+    "title": "Research Projects",
+    "section": "",
+    "text": "First-author research evaluating four hydrothermal humification technologies for Synthetic Humic Substance (SHS) production in China.\n\n\n\n\nLife Cycle Assessment (LCA)\nLife Cycle Costing (LCC)\nSimapro\nProvince-level scenario analysis\n\n\n\n\n\nEnvironmental hotspot analysis\nCarbon mitigation potential\nRegional energy transition scenarios\nAgricultural application benefits"
+  },
+  {
+    "objectID": "projects.html#greenhouse-gas-inventory-analysis",
+    "href": "projects.html#greenhouse-gas-inventory-analysis",
+    "title": "Research Projects",
+    "section": "Greenhouse Gas Inventory Analysis",
+    "text": "Greenhouse Gas Inventory Analysis\n\nResearch Focus\nApplied IPCC-based greenhouse gas inventory methods to estimate emissions and analyze mitigation opportunities in environmental systems.\n\n\nMethods\n\nIPCC Tier 1, Tier 2, and Tier 3 methodologies\nEmission factor analysis\nUncertainty assessment\nScenario evaluation\n\n\n\nKey Topics\n\nGreenhouse gas accounting\nCarbon inventories\nMitigation assessment\nEnvironmental data analysis"
+  },
+  {
+    "objectID": "projects.html#environmental-data-science-applications",
+    "href": "projects.html#environmental-data-science-applications",
+    "title": "Research Projects",
+    "section": "Environmental Data Science Applications",
+    "text": "Environmental Data Science Applications\n\nResearch Focus\nApplied quantitative and reproducible data analysis methods for sustainability and environmental research projects.\n\n\nMethods\n\nR and R Markdown\nStatistical analysis\nData visualization\nReproducible workflows\n\n\n\nKey Topics\n\nEnvironmental data processing\nQuantitative modeling\nSustainability analytics\nResearch reproducibility"
+  },
+  {
+    "objectID": "projects.html#construction-of-chinese-food-and-agriculture-biomass-input-output-fabio-model",
+    "href": "projects.html#construction-of-chinese-food-and-agriculture-biomass-input-output-fabio-model",
+    "title": "Research Projects",
+    "section": "Construction of Chinese Food and Agriculture Biomass Input-Output (FABIO) Model",
+    "text": "Construction of Chinese Food and Agriculture Biomass Input-Output (FABIO) Model\n\nResearch Focus\nParticipated in research related to biomass flow accounting and environmental-economic analysis in China’s food and agricultural systems.\n\n\nMethods\n\nInput-output analysis\nEnvironmental-economic modeling\nBiomass flow accounting\nData integration\n\n\n\nKey Topics\n\nAgricultural systems\nBiomass resource analysis\nEnvironmental-economic systems\nSustainability assessment"
+  },
+  {
+    "objectID": "projects.html#esg-evaluation-framework-research",
+    "href": "projects.html#esg-evaluation-framework-research",
+    "title": "Research Projects",
+    "section": "ESG Evaluation Framework Research",
+    "text": "ESG Evaluation Framework Research\n\nResearch Focus\nConducted research on ESG evaluation indicators and sustainability-related corporate assessment frameworks.\n\n\nMethods\n\nESG indicator analysis\nSustainability reporting review\nComparative framework analysis\nPolicy and literature review\n\n\n\nKey Topics\n\nESG evaluation\nCorporate sustainability\nSustainability metrics\nEnvironmental governance"
+  },
+  {
+    "objectID": "projects.html#research-on-green-energy-policy-effects-on-wind-power-development",
+    "href": "projects.html#research-on-green-energy-policy-effects-on-wind-power-development",
+    "title": "Research Projects",
+    "section": "Research on Green Energy Policy Effects on Wind Power Development",
+    "text": "Research on Green Energy Policy Effects on Wind Power Development\n\nResearch Focus\nAnalyzed the relationship between renewable energy policies and wind power industry development.\n\n\nMethods\n\nPolicy analysis\nStatistical analysis\nEconomic evaluation\nComparative analysis\n\n\n\nKey Topics\n\nRenewable energy policy\nWind power development\nEnergy transition\nClimate mitigation"
+  },
+  {
+    "objectID": "projects.html#research-on-pricing-issues-in-chinas-downstream-natural-gas-market",
+    "href": "projects.html#research-on-pricing-issues-in-chinas-downstream-natural-gas-market",
+    "title": "Research Projects",
+    "section": "Research on Pricing Issues in China’s Downstream Natural Gas Market",
+    "text": "Research on Pricing Issues in China’s Downstream Natural Gas Market\n\nResearch Focus\nStudied pricing mechanisms and policy impacts in China’s downstream natural gas market.\n\n\nMethods\n\nMarket analysis\nEconomic modeling\nPolicy evaluation\nComparative analysis\n\n\n\nKey Topics\n\nNatural gas markets\nEnergy economics\nPricing mechanisms\nEnergy policy"
+  },
+  {
+    "objectID": "projects.html#multi-actor-strategic-interactions-in-green-energy-policy",
+    "href": "projects.html#multi-actor-strategic-interactions-in-green-energy-policy",
+    "title": "Research Projects",
+    "section": "Multi-Actor Strategic Interactions in Green Energy Policy",
+    "text": "Multi-Actor Strategic Interactions in Green Energy Policy\n\nResearch Focus\nExplored strategic interactions among governments, enterprises, and consumers under green energy policy frameworks.\n\n\nMethods\n\nGame theory analysis\nPolicy analysis\nEnvironmental-economic modeling\nScenario analysis\n\n\n\nKey Topics\n\nGreen energy policy\nStrategic interaction\nSustainability transition\nEnvironmental governance"
+  }
+]

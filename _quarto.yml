@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Xinran Zhou"
+  navbar:
+    background: white
+    search: true
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - text: "Portfolio"
+        href: portfolio.qmd
+      - href: skills.qmd
+        text: Skills
+      - href: cv.qmd
+        text: CV
+        
+  page-footer:
+    center: |
+      © 2026 Xinran Zhou · Environmental Data Science & Sustainability
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+    link-external-newwindow: true
+    
+    
+

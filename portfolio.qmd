@@ -1,0 +1,90 @@
+---
+title: "Portfolio"
+toc: true
+toc-title: "On this page"
+---
+
+# Data Visualization Portfolio
+
+This page highlights examples of reproducible data analysis and visualization workflows created using R and Quarto.
+
+------------------------------------------------------------------------
+
+## Carbon Emissions Visualization
+
+The figure below demonstrates a simple greenhouse gas emissions trend analysis using R and ggplot2.
+
+```{r}
+#| label: fig-emissions
+#| fig-cap: "Example greenhouse gas emissions trend"
+#| warning: false
+#| message: false
+
+library(ggplot2)
+
+emissions <- data.frame(
+  Year = c(2019, 2020, 2021, 2022, 2023),
+  Emissions = c(125, 118, 110, 97, 85)
+)
+
+ggplot(emissions, aes(x = Year, y = Emissions)) +
+  geom_line(linewidth = 1.2, color = "#2C7FB8") +
+  geom_point(size = 3, color = "#1B7837") +
+  labs(
+    x = "Year",
+    y = "GHG Emissions (t CO2-eq)",
+    title = "Greenhouse Gas Emissions Trend"
+  ) +
+  theme_minimal(base_size = 14)
+```
+
+------------------------------------------------------------------------
+
+## Sustainability Summary Table
+
+This section demonstrates simple data summarization using reproducible R workflows.
+
+```{r}
+#| warning: false
+#| message: false
+
+library(dplyr)
+
+sustainability_data <- data.frame(
+  Sector = c("Energy", "Agriculture", "Transportation", "Industry"),
+  Reduction = c(32, 18, 24, 15)
+)
+
+sustainability_data %>%
+  arrange(desc(Reduction))
+```
+
+------------------------------------------------------------------------
+
+## Reproducible Workflow Example
+
+The following code chunk demonstrates a basic reproducible workflow used in environmental data analysis.
+
+::: {.callout-note collapse="true"}
+## View R Code
+
+```{r}
+mean_emissions <- mean(emissions$Emissions)
+
+paste(
+  "Average emissions across all years:",
+  round(mean_emissions, 2),
+  "t CO2-eq"
+)
+```
+:::
+
+------------------------------------------------------------------------
+
+## Technical Skills Demonstrated
+
+- Reproducible reporting with Quarto
+- Data visualization using ggplot2
+- Data manipulation using dplyr
+- Environmental data analysis workflows in R
+- Dynamic document generation

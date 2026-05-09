@@ -1,0 +1,106 @@
+---
+title: "Xinran Zhou"
+image: profile.jpg
+
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 12em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:zhou.xinran@colostate.edu
+
+    - icon: github
+      text: GitHub
+      href: https://github.com/xinranzhou2059
+---
+
+::: intro-title
+Graduate Student in Ecosystem Science & Sustainability\
+Colorado State University
+:::
+
+Focused on carbon management, environmental data science, and sustainability assessment through life cycle analysis, greenhouse gas accounting, and quantitative environmental-economic research.
+
+------------------------------------------------------------------------
+
+## Research Interests
+
+My research interests focus on carbon management, greenhouse gas inventories, life cycle assessment (LCA), and environmental-economic analysis. I am particularly interested in applying quantitative modeling and data-driven methods to support low-carbon decision-making in agriculture and energy systems.
+
+------------------------------------------------------------------------
+
+## Current Research
+
+### LCA-LCC Assessment of Synthetic Humic Substance (SHS) Production and Agricultural Application
+
+- First-author research on four hydrothermal humification technologies for SHS production in China
+- Evaluating environmental impacts, economic costs, and process hotspots
+- Assessing mitigation potential under regional energy transition scenarios
+- Using Simapro, CHINA-SDU-LCIA, and province-level analysis frameworks
+
+### Greenhouse Gas Inventory Analysis
+
+- Estimating emissions using IPCC-based methods and process-based models
+- Conducting mitigation analysis in R and COMET-Farm
+- Developing scenario-based mitigation strategies for agricultural systems
+
+### Environmental Data Science Applications
+
+- Cleaning, analyzing, and visualizing environmental datasets in R
+- Producing reproducible sustainability analyses and technical reports
+- Applying statistical methods to evaluate environmental indicators and emissions trends
+
+------------------------------------------------------------------------
+
+## Technical Skills
+
+### Environmental Assessment
+
+- Life Cycle Assessment (LCA)
+- Life Cycle Costing (LCC)
+- Greenhouse Gas Inventories
+- Input-Output Analysis
+
+### Programming & Software
+
+- R
+- MATLAB
+- Stata
+- OpenLCA
+- SimaPro
+- COMET-Farm
+
+### Data Analysis & Reporting
+
+- R Markdown
+- Quarto
+- Microsoft Excel
+- Origin
+- Reproducible Reporting
+
+------------------------------------------------------------------------
+
+## Education
+
+### Colorado State University
+
+Professional Science Master in Ecosystem Science & Sustainability (Carbon Management)
+
+### Shandong University, China
+
+M.S. in Population, Resources & Environmental Economics
+
+### China University of Geosciences (Wuhan), China
+
+B.A. in Economics, with Distinction
+
+------------------------------------------------------------------------
+
+## Selected Honors
+
+- National Scholarship (2023), China
+- National Energy Economics Innovation Competition, Second Prize (National-level), China
+- International “Internet+” Innovation & Entrepreneurship Competition, Bronze Award, China
+- National English Debate Competition, Third Prize, China

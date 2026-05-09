@@ -1,0 +1,177 @@
+---
+title: "Research Projects"
+---
+
+## LCA-LCC Assessment of Synthetic Humic Substance (SHS) Production and Agricultural Application
+
+### Research Focus
+
+First-author research evaluating four hydrothermal humification technologies for Synthetic Humic Substance (SHS) production in China.
+
+### Methods
+
+- Life Cycle Assessment (LCA)
+- Life Cycle Costing (LCC)
+- Simapro
+- Province-level scenario analysis
+
+### Key Topics
+
+- Environmental hotspot analysis
+- Carbon mitigation potential
+- Regional energy transition scenarios
+- Agricultural application benefits
+
+------------------------------------------------------------------------
+
+## Greenhouse Gas Inventory Analysis
+
+### Research Focus
+
+Applied IPCC-based greenhouse gas inventory methods to estimate emissions and analyze mitigation opportunities in environmental systems.
+
+### Methods
+
+- IPCC Tier 1, Tier 2, and Tier 3 methodologies
+- Emission factor analysis
+- Uncertainty assessment
+- Scenario evaluation
+
+### Key Topics
+
+- Greenhouse gas accounting
+- Carbon inventories
+- Mitigation assessment
+- Environmental data analysis
+
+------------------------------------------------------------------------
+
+## Environmental Data Science Applications
+
+### Research Focus
+
+Applied quantitative and reproducible data analysis methods for sustainability and environmental research projects.
+
+### Methods
+
+- R and R Markdown
+- Statistical analysis
+- Data visualization
+- Reproducible workflows
+
+### Key Topics
+
+- Environmental data processing
+- Quantitative modeling
+- Sustainability analytics
+- Research reproducibility
+
+------------------------------------------------------------------------
+
+## Construction of Chinese Food and Agriculture Biomass Input-Output (FABIO) Model
+
+### Research Focus
+
+Participated in research related to biomass flow accounting and environmental-economic analysis in China’s food and agricultural systems.
+
+### Methods
+
+- Input-output analysis
+- Environmental-economic modeling
+- Biomass flow accounting
+- Data integration
+
+### Key Topics
+
+- Agricultural systems
+- Biomass resource analysis
+- Environmental-economic systems
+- Sustainability assessment
+
+------------------------------------------------------------------------
+
+## ESG Evaluation Framework Research
+
+### Research Focus
+
+Conducted research on ESG evaluation indicators and sustainability-related corporate assessment frameworks.
+
+### Methods
+
+- ESG indicator analysis
+- Sustainability reporting review
+- Comparative framework analysis
+- Policy and literature review
+
+### Key Topics
+
+- ESG evaluation
+- Corporate sustainability
+- Sustainability metrics
+- Environmental governance
+
+------------------------------------------------------------------------
+
+## Research on Green Energy Policy Effects on Wind Power Development
+
+### Research Focus
+
+Analyzed the relationship between renewable energy policies and wind power industry development.
+
+### Methods
+
+- Policy analysis
+- Statistical analysis
+- Economic evaluation
+- Comparative analysis
+
+### Key Topics
+
+- Renewable energy policy
+- Wind power development
+- Energy transition
+- Climate mitigation
+
+------------------------------------------------------------------------
+
+## Research on Pricing Issues in China’s Downstream Natural Gas Market
+
+### Research Focus
+
+Studied pricing mechanisms and policy impacts in China’s downstream natural gas market.
+
+### Methods
+
+- Market analysis
+- Economic modeling
+- Policy evaluation
+- Comparative analysis
+
+### Key Topics
+
+- Natural gas markets
+- Energy economics
+- Pricing mechanisms
+- Energy policy
+
+------------------------------------------------------------------------
+
+## Multi-Actor Strategic Interactions in Green Energy Policy
+
+### Research Focus
+
+Explored strategic interactions among governments, enterprises, and consumers under green energy policy frameworks.
+
+### Methods
+
+- Game theory analysis
+- Policy analysis
+- Environmental-economic modeling
+- Scenario analysis
+
+### Key Topics
+
+- Green energy policy
+- Strategic interaction
+- Sustainability transition
+- Environmental governance
