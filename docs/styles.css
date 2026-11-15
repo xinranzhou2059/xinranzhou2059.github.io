@@ -108,3 +108,22 @@ h1 {font-weight:700;}h2 {font-size:1.5rem;}h3 {font-size:1.1rem;}
 .projects-page .projects-group>h2,.outputs-page .outputs-group>h2 {font-size:22px;}
 .projects-page .project-entry h3,.outputs-page .output-entry h3 {font-size:21px;}
 }
+
+/* Original research figures embedded alongside their project summaries. */
+.projects-page .work-figure {margin:1.3rem 0 0;}
+.work-figure>a {display:block;}
+.projects-page .work-figure img {display:block;width:100%;height:auto;max-width:100%;border:1px solid #e0e5eb;background:white;box-sizing:border-box;}
+.projects-page .work-figure-tall img {width:auto;max-height:540px;margin-inline:auto;}
+.projects-page .work-figure figcaption,.projects-page .work-credit {font-size:16px;line-height:1.6;color:#3e5064;margin:.7rem 0 0;}
+.work-figure figcaption a {text-decoration:underline;text-underline-offset:3px;}
+.work-details {margin:1.1rem 0 .5rem;}
+.work-details summary {font-size:17px;font-weight:600;color:#294e6b;cursor:pointer;padding:.45rem 0;text-decoration:underline;text-underline-offset:4px;}
+.work-details summary:focus-visible {outline:2px solid #365d78;outline-offset:4px;}
+.projects-page .project-entry {padding-block:1.5rem;}
+@media(max-width:600px){.projects-page .work-figure-tall img{max-height:450px;}}
+
+/* Preview the assessment panel; the linked original retains the complete figure. */
+.shs-method-preview {display:block;position:relative;aspect-ratio:1178 / 800;overflow:hidden;}
+.projects-page .shs-method-preview img {position:absolute;width:100%;max-width:none;height:auto;top:-125%;border:0;}
+
+.spotlight-figure img {width:100%;height:auto;}.projects-page .spotlight-figure {margin:.9rem 0 1rem;}

@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <style>html{ scroll-behavior: smooth; }</style>
 
 
-<link rel="stylesheet" href="styles.css?v=20261115-clean">
+<link rel="stylesheet" href="styles.css?v=20261115-merged">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -99,10 +99,6 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./portfolio.html"> 
-<span class="menu-text">Portfolio</span></a>
   </li>  
   <li class="nav-item"><a class="nav-link" href="./outputs.html"><span class="menu-text">Outputs</span></a></li>
 <li class="nav-item">
@@ -148,13 +144,24 @@ ul.task-list li input[type="checkbox"] {
 <h2 id="selected-research-title">Selected Research</h2>
 <article class="project-entry" id="shs">
 <h3>Environmental and economic assessment of synthetic humic substances</h3>
+<figure class="work-figure spotlight-figure"><a href="assets/research/shs-spotlight.png" target="_blank" rel="noopener"><img src="assets/research/shs-spotlight.png" alt="SHS research spotlight combining the system boundary, LCA-LCC framework, contribution analysis, crop costs, and provincial environmental comparisons" loading="lazy"></a><figcaption>Research spotlight: SHS production and agricultural application. <a href="assets/research/shs-spotlight.png" target="_blank" rel="noopener">View full-size image</a></figcaption></figure>
 <p>This research at Shandong University evaluates four synthetic humic substance production pathways and their agricultural applications in China. A regionalized LCA-LCC framework compares environmental impacts, production costs, and monetized environmental externalities across crop systems, regions, and electricity scenarios.</p>
-<a class="project-portfolio-link" href="portfolio.html#soil">View portfolio</a>
+
 </article>
 <article class="project-entry" id="esiil">
 <h3>Forest cover change across Colorado’s Front Range, 2001–2021</h3>
+<figure class="work-figure spotlight-figure"><a href="assets/research/forest-spotlight.png" target="_blank" rel="noopener"><img src="assets/research/forest-spotlight.png" alt="Forest research spotlight showing 2001 and 2021 land-cover maps, forest change, elevation distributions, forest-loss probability, and burned-area overlap" loading="lazy"></a><figcaption>Research spotlight: forest change across Colorado’s Front Range. The Agentic AI extension shown in the overview is ongoing; burned-area overlap does not establish causation. <a href="assets/research/forest-spotlight.png" target="_blank" rel="noopener">View full-size image</a></figcaption></figure>
 <p>Collaborative research at CU Boulder’s Environmental Data Science Innovation and Impact Lab (ESIIL) examines forest-cover change across Colorado’s Front Range. Python and Google Earth Engine workflows combine land-cover, elevation, and burned-area data to analyze land-cover transitions and spatial patterns of forest loss.</p>
-<a class="project-portfolio-link" href="portfolio.html#forest">View portfolio</a>
+<details class="work-details"><summary>View forest area by elevation</summary><figure class="work-figure">
+<a href="assets/research/forest-area-by-elevation.png" target="_blank" rel="noopener"><img src="assets/research/forest-area-by-elevation.png" alt="Forest area in square metres by elevation, comparing 2001 with 2021 in the Front Range study area" loading="lazy" width="1188" height="590"></a>
+<figcaption>Forest area by 100 m elevation band, 2001 and 2021. Source: saved output from the ESIIL analysis notebook; NLCD forest classes 41–43. <a href="assets/research/forest-area-by-elevation.png" target="_blank" rel="noopener">View full-size figure</a></figcaption>
+</figure></details>
+<details class="work-details"><summary>View forest-type elevation distributions</summary>
+<figure class="work-figure">
+<a href="assets/research/forest-types-elevation-kde.png" target="_blank" rel="noopener"><img src="assets/research/forest-types-elevation-kde.png" alt="Area-weighted elevation density plots for deciduous, evergreen, and mixed forest in 2001 and 2021" loading="lazy" width="1889" height="544"></a>
+<figcaption>Area-weighted kernel density estimates for three forest types, using a common normalization within each panel. Density curves are not absolute forest-area estimates. Source: saved ESIIL notebook output. <a href="assets/research/forest-types-elevation-kde.png" target="_blank" rel="noopener">View full-size figure</a></figcaption>
+</figure></details>
+<p class="work-credit">Collaborative ESIIL research with Camille Guillen, Malia Goldstein, Mohammad Saif, and Sandra M. Duran.</p>
 </article>
 <article class="project-entry" id="wind-power">
 <h3>Wind power policy and corporate sustainability</h3>
@@ -169,8 +176,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 id="technical-work-title">Model Testing and Data Work</h2>
 <article class="project-entry" id="landengine">
 <h3>MEMS Grazing Scheduler testing</h3>
-<p>Technical work at LandEngine, Colorado State University, focuses on testing the MEMS Grazing Scheduler with site-specific inputs and continuous, low-rotation, and adaptive multi-paddock grazing scenarios. Tasks include model setup, test runs, troubleshooting, output checks, and workflow documentation.</p>
-<a class="project-portfolio-link" href="portfolio.html#grazing">View portfolio</a>
+<p>Technical work at LandEngine, Colorado State University, involved testing the MEMS Grazing Scheduler, reviewing model outputs, and documenting the workflow.</p>
+
 </article>
 <article class="project-entry" id="fabio">
 <h3>China-specific FABIO framework</h3>

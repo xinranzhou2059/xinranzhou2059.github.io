@@ -37,11 +37,5 @@ toc: false
 <h3>Multi-Actor Strategic Interactions under Renewable Portfolio Standards: An Evolutionary Game Analysis.</h3>
 <p>Zhou, X. (2024). · Bachelor’s thesis, China University of Geosciences (Wuhan).</p>
 </article></section>
-<section class="outputs-group" aria-labelledby="documentation-title">
-<h2 id="documentation-title">Technical Documentation</h2>
-<article class="output-entry" id="mems-guide">
-<h3>MEMS Grazing Scheduler user guide</h3>
-<p>Zhou, X. · LandEngine, Colorado State University.</p>
-<p>A user guide documenting the Grazing Scheduler–MEMS workflow, including model setup, grazing scenario testing, and output checks.</p>
-</article></section>
+
 </div>

@@ -13,8 +13,6 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - text: "Portfolio"
-        href: portfolio.qmd
       - href: outputs.qmd
         text: Outputs
       - href: skills.qmd
