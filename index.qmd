@@ -16,7 +16,7 @@ toc: false
 <section class="research-section home-about" id="about">
   <p class="eyebrow">ABOUT ME</p>
   <h2>Background and research interests</h2>
-  <p>I am completing a Professional Science Master’s in Ecosystem Science &amp; Sustainability (Carbon Management) at Colorado State University (degree expected January 2027), while pursuing an M.S. in Population, Resources &amp; Environmental Economics at Shandong University (expected June 2027). I earned a B.A. in Economics from China University of Geosciences (Wuhan).</p>
+  <p>I am completing a Professional Science Master’s in Ecosystem Science &amp; Sustainability (Carbon Management) at Colorado State University, while pursuing an M.S. in Population, Resources &amp; Environmental Economics at Shandong University. I earned a B.A. in Economics from China University of Geosciences (Wuhan).</p>
   <p>My experience spans life cycle assessment and costing, ecosystem modeling workflows, geospatial analysis, and quantitative economics—including panel-data econometrics, evolutionary game modeling, and agricultural input–output data analysis. I am interested in the economic feasibility and environmental trade-offs of agricultural and land-management decisions across different landscapes.</p>
 </section>
 <section class="research-section">
