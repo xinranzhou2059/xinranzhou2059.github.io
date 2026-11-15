@@ -14,6 +14,7 @@ toc: false
 <figure class="work-figure ppt-work"><a href="assets/research/Research_Spotlights.pdf#page=1" target="_blank" rel="noopener"><img src="assets/research/shs-slide.jpg" width="3000" height="1688" alt="SHS research spotlight slide with original figure titles and captions" loading="lazy"></a></figure>
 <p class="project-file-links"><a href="assets/research/Research_Spotlights.pdf#page=1" target="_blank" rel="noopener">View slides (PDF)</a> · <a href="assets/research/Research_Spotlights.pptx" download>Download PowerPoint</a></p>
 
+<p class="work-credit">Collaborative research with Xiaotian Ma, Jinglan Hong, Nan Li, Ming Xu, Tianjie Lei, and Honglin Zhong.</p>
 </article>
 <article class="project-entry" id="esiil">
 <h3>Forest cover change across Colorado’s Front Range, 2001–2021</h3>
