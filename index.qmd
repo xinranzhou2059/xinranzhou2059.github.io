@@ -8,11 +8,17 @@ toc: false
     <p class="eyebrow">INTERDISCIPLINARY ENVIRONMENTAL RESEARCH</p>
     <h1>Xinran Zhou</h1>
     <p class="research-subtitle">Environmental economics · Ecosystem science · Geospatial analysis</p>
-    <p>I study how economic decisions, environmental processes, and spatial patterns shape agricultural and land-management outcomes. My work brings together economics, life cycle assessment, ecosystem modeling workflows, and geospatial analysis.</p>
+    <p>I use quantitative methods to examine environmental and economic questions in agriculture, ecosystems, and land management.</p>
     <div class="profile-contact" aria-label="Contact"><a href="mailto:zhou.xinran@colostate.edu" aria-label="Email Xinran Zhou">Email</a><a href="https://www.linkedin.com/in/xinran-zhou6/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
   </div>
   <div class="research-portrait"><img src="profile.jpg" alt="Portrait of Xinran Zhou"></div>
 </div>
+<section class="research-section home-about" id="about">
+  <p class="eyebrow">ABOUT ME</p>
+  <h2>Background and research interests</h2>
+  <p>I am completing a Professional Science Master’s in Ecosystem Science &amp; Sustainability (Carbon Management) at Colorado State University (degree expected January 2027), while pursuing an M.S. in Population, Resources &amp; Environmental Economics at Shandong University (expected June 2027). I earned a B.A. in Economics from China University of Geosciences (Wuhan).</p>
+  <p>My experience spans life cycle assessment and costing, ecosystem modeling workflows, geospatial analysis, and quantitative economics—including panel-data econometrics, evolutionary game modeling, and agricultural input–output data analysis. I am interested in the economic feasibility and environmental trade-offs of agricultural and land-management decisions across different landscapes.</p>
+</section>
 <section class="research-section">
   <p class="eyebrow">FEATURED WORK</p><h2>Research across landscapes and agricultural systems</h2>
   <div class="project-grid">

@@ -1,13 +1,10 @@
 ---
-title: "About"
+title: "About — moved to Home"
 toc: false
 ---
 
-<div class="research-page"><p class="eyebrow">BACKGROUND</p><h1>About</h1>
-<p class="intro-lede">My interests lie at the intersection of environmental economics, ecosystem science, and spatial data analysis.</p>
-<p>I am completing a Professional Science Master’s in Ecosystem Science &amp; Sustainability (Carbon Management) at Colorado State University (degree expected January 2027), while pursuing an M.S. in Population, Resources &amp; Environmental Economics at Shandong University (expected June 2027). I earned a B.A. in Economics from China University of Geosciences (Wuhan).</p>
-<p>My research experience includes regional life cycle assessment and costing of agricultural soil amendments, testing grazing-management scenarios with MEMS at LandEngine, and analyzing forest-cover change using Python and Google Earth Engine at CU Boulder’s ESIIL. Earlier projects involved panel-data econometrics, evolutionary game modeling, and agricultural input–output data integration.</p>
-<p>I am particularly interested in research that makes environmental and economic trade-offs explicit while accounting for differences across technologies, management practices, and landscapes. I hope to strengthen connections among these complementary methods through further research.</p>
-<div class="info-strip"><div><strong>Economics</strong><span>Costing · Incentives · Econometrics</span></div><div><strong>Environmental assessment</strong><span>LCA/LCC · GHG accounting</span></div><div><strong>Spatial &amp; ecosystem analysis</strong><span>Python/GEE · MEMS workflows</span></div></div>
-<section class="research-section"><h2>Research principles</h2><p>I aim to distinguish modeled scenarios from measured outcomes, spatial association from causation, and my specific contributions from collaborative project results. Methods and conclusions should be clear enough to support critical interpretation and real-world decisions.</p></section>
-<section class="research-section"><h2>Education</h2><div class="detail-list"><div><strong>Colorado State University</strong><span>Professional Science Master’s · Ecosystem Science &amp; Sustainability (Carbon Management) · Degree expected January 2027</span></div><div><strong>Shandong University</strong><span>M.S. · Population, Resources &amp; Environmental Economics · Expected June 2027</span></div><div><strong>China University of Geosciences (Wuhan)</strong><span>B.A. · Economics · 2024</span></div></div></section></div>
+<meta http-equiv="refresh" content="0; url=index.html#about">
+
+# About has moved
+
+My academic background and research introduction are now on the [Home page](index.qmd#about).

@@ -36,3 +36,10 @@ h1 {font-weight:700;}h2 {font-size:1.5rem;}h3 {font-size:1.1rem;}
 .profile-contact a:hover,.profile-contact a:focus-visible{color:#142f47;border-color:#142f47;text-decoration:none;outline-offset:4px;}
 .cv-download-row {display:flex;align-items:center;gap:1rem;flex-wrap:wrap;margin:1.5rem 0 .75rem;}
 @media(max-width:800px){.profile-contact{gap:1.2rem;margin:.9rem 0 .25rem;}}
+
+/* Combined Home / About, restrained spacing */
+.home-about { max-width:880px; padding:1.55rem 0 1.7rem; }
+.home-about h2 { margin-bottom:.85rem; }
+.home-about p:not(.eyebrow) { max-width:840px; color:#334154; font-size:1rem; line-height:1.72; }
+.home-about p:not(.eyebrow)+p { margin-top:.6rem; }
+@media(max-width:800px) { .home-about {padding:1.25rem 0 1.45rem;} }
