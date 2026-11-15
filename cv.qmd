@@ -3,4 +3,4 @@ title: "Academic CV"
 toc: false
 ---
 
-<div class="research-page cv-page"><p class="eyebrow">DOWNLOADABLE ACADEMIC CV</p><h1>Curriculum Vitae</h1><div class="cv-download-row"><a class="research-button" href="Xinran_Zhou_Academic_CV.pdf?v=20261115-revised" download="Xinran_Zhou_Academic_CV.pdf">Download CV (PDF)</a></div><div class="cv-embed"><iframe src="Xinran_Zhou_Academic_CV.pdf?v=20261115-revised#view=FitH" title="Xinran Zhou academic CV PDF" width="100%" height="960" loading="lazy"></iframe></div></div>
+<div class="research-page cv-page"><p class="eyebrow">DOWNLOADABLE ACADEMIC CV</p><h1>Curriculum Vitae</h1><div class="cv-download-row"><a class="research-button" href="Xinran_Zhou_Academic_CV.pdf?v=20261115-spacing" download="Xinran_Zhou_Academic_CV.pdf">Download CV (PDF)</a></div><div class="cv-embed"><iframe src="Xinran_Zhou_Academic_CV.pdf?v=20261115-spacing#view=FitH" title="Xinran Zhou academic CV PDF" width="100%" height="960" loading="lazy"></iframe></div></div>
