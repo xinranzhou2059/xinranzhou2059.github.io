@@ -52,8 +52,8 @@ h1 {font-weight:700;}h2 {font-size:1.5rem;}h3 {font-size:1.1rem;}
 }
 .research-portrait {
   position: relative;
-  width: clamp(224px, 22vw, 260px);
-  height: clamp(224px, 22vw, 260px);
+  width: clamp(220px, 22vw, 250px);
+  height: clamp(220px, 22vw, 250px);
   margin-inline: auto;
   overflow: hidden;
   border-radius: 50%;
@@ -70,8 +70,8 @@ h1 {font-weight:700;}h2 {font-size:1.5rem;}h3 {font-size:1.1rem;}
   border-radius: 0;
   box-shadow: none;
   object-fit: cover;
-  object-position: center;
-  transform: translateY(-7%) scale(1.48);
+  object-position: 50% 50%;
+  transform: none;
   transform-origin: center center;
   image-rendering: auto;
   filter: none;
@@ -80,8 +80,8 @@ h1 {font-weight:700;}h2 {font-size:1.5rem;}h3 {font-size:1.1rem;}
   .research-hero { grid-template-columns: 1fr; gap: 1.35rem; }
   .research-portrait {
     grid-row: 1;
-    width: 190px;
-    height: 190px;
+    width: 185px;
+    height: 185px;
     margin-inline: 0;
   }
 }
