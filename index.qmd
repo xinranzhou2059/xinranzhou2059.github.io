@@ -9,7 +9,7 @@ toc: false
     <h1>Xinran Zhou</h1>
     <p class="research-subtitle">Environmental economics · Ecosystem science · Geospatial analysis</p>
     <p>I study how economic decisions, environmental processes, and spatial patterns shape agricultural and land-management outcomes. My work brings together economics, life cycle assessment, ecosystem modeling workflows, and geospatial analysis.</p>
-    <div class="action-links"><a class="research-button" href="projects.html">Explore research</a><a class="research-link" href="portfolio.html">Research portfolio</a><a class="research-link" href="mailto:zhou.xinran@colostate.edu">Email</a></div>
+    <div class="profile-contact" aria-label="Contact"><a href="mailto:zhou.xinran@colostate.edu" aria-label="Email Xinran Zhou">Email</a><a href="https://www.linkedin.com/in/xinran-zhou6/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
   </div>
   <div class="research-portrait"><img src="profile.jpg" alt="Portrait of Xinran Zhou"></div>
 </div>
@@ -21,8 +21,3 @@ toc: false
     <article class="project-card"><span class="project-type">AGROECOSYSTEM MODELING</span><h3>Grazing-management scenario workflows</h3><p>MEMS scenario testing, output interpretation, and land-carbon accounting at LandEngine.</p><a href="projects.html#landengine">View project</a></article>
   </div>
 </section>
-<section class="research-section">
-  <p class="eyebrow">RESEARCH APPROACH</p><h2>Connecting methods without overstating their integration</h2>
-  <div class="three-column"><div><h3>Economic analysis</h3><p>Econometrics, evolutionary game modeling, life cycle costing, and assessment of environmental externalities.</p></div><div><h3>Environmental systems</h3><p>LCA, greenhouse gas accounting, grazing scenarios, and soil-carbon model workflows.</p></div><div><h3>Spatial evidence</h3><p>Remote sensing, land-cover data, GIS-style overlays, and elevation-based analysis.</p></div></div>
-</section>
-<section class="research-section slim"><h2>Current academic background</h2><p>Professional Science Master’s in Ecosystem Science &amp; Sustainability (Carbon Management), Colorado State University; M.S. studies in Population, Resources &amp; Environmental Economics, Shandong University; B.A. in Economics, China University of Geosciences (Wuhan).</p><p class="quiet">For research experience and outputs, see <a href="projects.html">Projects</a>, <a href="about.html">About</a>, and <a href="cv.html">Academic CV overview</a>.</p></section>

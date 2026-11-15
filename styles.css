@@ -29,3 +29,10 @@ h1 {font-weight:700;}h2 {font-size:1.5rem;}h3 {font-size:1.1rem;}
 .cv-embed{background:#f7f8fa;border:1px solid var(--site-border);border-radius:10px;overflow:hidden;margin-top:1.5rem;}.cv-embed iframe{display:block;width:100%;min-height:780px;border:0;}
 @media(max-width:800px){main.content{padding:1rem 1.05rem 2.3rem;}.research-hero{grid-template-columns:1fr;gap:1rem;}.research-portrait{grid-row:1;justify-content:flex-start;}.research-portrait img{width:120px;height:120px;}.project-grid,.three-column,.info-strip,.skill-grid{grid-template-columns:1fr;}.research-section{padding:1.35rem 0;}.cv-embed iframe{height:650px;}}
 @media print{.navbar,.footer,.action-links,.research-button{display:none !important;}body{background:white !important;}main.content{max-width:100%;padding:0;}}
+
+/* Homepage contact actions: navigational project links remain in the top navbar. */
+.profile-contact {display:flex;align-items:center;gap:1.25rem;margin:1.05rem 0 .15rem;}
+.profile-contact a {display:inline-flex;align-items:center;color:#365d78;text-decoration:none;font-size:.97rem;font-weight:620;padding:6px 0;border-bottom:1px solid #a5b4c1;transition:border-color .12s,color .12s;}
+.profile-contact a:hover,.profile-contact a:focus-visible{color:#142f47;border-color:#142f47;text-decoration:none;outline-offset:4px;}
+.cv-download-row {display:flex;align-items:center;gap:1rem;flex-wrap:wrap;margin:1.5rem 0 .75rem;}
+@media(max-width:800px){.profile-contact{gap:1.2rem;margin:.9rem 0 .25rem;}}
