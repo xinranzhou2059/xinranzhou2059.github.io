@@ -9,7 +9,7 @@ toc: false
     <h1>Xinran Zhou</h1>
     <p class="research-subtitle">Environmental economics · Ecosystem science · Geospatial analysis</p>
     <p>I use quantitative methods to examine environmental and economic questions in agriculture, ecosystems, and land management.</p>
-    <div class="profile-contact" aria-label="Contact"><a href="mailto:zhou.xinran@colostate.edu" aria-label="Email Xinran Zhou">Email</a><a href="https://www.linkedin.com/in/xinran-zhou6/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
+    <div class="profile-contact" aria-label="Contact"><div class="contact-email"><a href="mailto:zhou.xinran@colostate.edu" aria-label="Email Xinran Zhou at zhou.xinran@colostate.edu">zhou.xinran@colostate.edu</a><button type="button" class="copy-email" data-copy-email="zhou.xinran@colostate.edu">Copy email</button><span class="contact-status" role="status" aria-live="polite"></span></div><a href="https://www.linkedin.com/in/xinran-zhou6/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
   </div>
   <div class="research-portrait"><img src="portrait-original.jpg" width="1440" height="1922" fetchpriority="high" alt="Xinran Zhou, head-and-shoulders portrait"></div>
 </div>
@@ -27,3 +27,34 @@ toc: false
     <article class="project-card"><span class="project-type">MODEL TESTING</span><h3>MEMS Grazing Scheduler testing</h3><p>MEMS scenario testing, output interpretation, and land-carbon accounting at LandEngine.</p></article>
   </div>
 </section>
+
+<script>
+(() => {
+  const button = document.querySelector('[data-copy-email]');
+  if (!button) return;
+  const status = document.querySelector('.contact-status');
+  button.addEventListener('click', async () => {
+    const address = button.dataset.copyEmail;
+    let copied = false;
+    try {
+      if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(address);
+        copied = true;
+      }
+    } catch (_) {}
+    if (!copied) {
+      const field = document.createElement('textarea');
+      field.value = address;
+      field.setAttribute('readonly', '');
+      field.style.cssText = 'position:fixed;left:-9999px;top:0';
+      document.body.appendChild(field);
+      field.select();
+      try { copied = document.execCommand('copy'); } catch (_) {}
+      field.remove();
+      button.focus();
+    }
+    button.textContent = copied ? 'Copied!' : 'Copy email';
+    status.textContent = copied ? 'Email address copied.' : 'Please select and copy the email address.';
+  });
+})();
+</script>

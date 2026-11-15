@@ -195,3 +195,6 @@ h1 {font-weight:700;}h2 {font-size:1.5rem;}h3 {font-size:1.1rem;}
 /* Consistent page heading and dependable CV previews across screen sizes. */
 .cv-page{max-width:900px;}.cv-page>h1{font-size:36px;line-height:1.25;letter-spacing:-.025em;margin:1rem 0 0;}.cv-preview-page{display:block;margin:1.2rem 0;border:1px solid #dce3e9;}.cv-preview-page img{display:block;width:100%;height:auto;}
 @media(max-width:700px){.cv-page>h1{font-size:29px;margin-top:.7rem;}}
+
+/* Direct address and copy control remain usable without a mail application. */
+.profile-contact{flex-wrap:wrap;column-gap:1.25rem;row-gap:.65rem;}.contact-email{display:flex;align-items:center;flex-wrap:wrap;gap:.65rem;min-width:0;}.contact-email>a{overflow-wrap:anywhere;}.copy-email{font:inherit;font-size:.82rem;color:#365d78;background:#fff;border:1px solid #a5b4c1;border-radius:5px;padding:.3rem .5rem;cursor:pointer;}.copy-email:hover{background:#f1f5f8;}.copy-email:focus-visible{outline:2px solid #365d78;outline-offset:3px;}.contact-status{font-size:.82rem;color:#365d78;}.contact-status:empty{display:none;}
