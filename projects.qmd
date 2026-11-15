@@ -1,61 +1,49 @@
 ---
-title: "Research & Technical Experience"
+title: "Research and Technical Experience"
 toc: false
 ---
 
 <div class="research-page projects-page">
-<header class="projects-intro">
-<p class="eyebrow">RESEARCH &amp; TECHNICAL EXPERIENCE</p>
-<h1>Research &amp; technical experience</h1>
-<p class="intro-lede">Environmental–economic assessment, land-cover change, and quantitative analysis, alongside model testing and agricultural data work.</p>
-<nav class="projects-jump" aria-label="Project sections"><a href="#selected-research">Selected research</a><a href="#technical-work">Model testing &amp; data work</a></nav>
-</header>
+<header class="projects-intro"><h1>Research and Technical Experience</h1></header>
 <section class="projects-group" id="selected-research" aria-labelledby="selected-research-title">
-<h2 id="selected-research-title">Selected research</h2>
+<h2 id="selected-research-title">Selected Research</h2>
 <article class="project-entry" id="shs">
-<p class="project-type">ENVIRONMENTAL ECONOMICS · LCA-LCC</p>
 <h3>Environmental and economic assessment of synthetic humic substances</h3>
-<p>This master’s research at Shandong University evaluates four synthetic humic substance production pathways and their modeled agricultural applications in China. It connects life cycle environmental impacts with production costs and monetized environmental externalities through a regionalized LCA-LCC framework.</p>
-<div class="project-output"><strong>Conference presentation</strong><p>Presented at the Chinese Ecological Congress · October 2025</p></div>
-<p>The assessment compares applications in wheat, maize, rice, and apple production, accounting for agricultural-input substitution, regional differences, and future electricity scenarios. These comparisons examine environmental–economic trade-offs under the study’s assumptions and system boundaries.</p>
-<p class="project-tools"><strong>Approach:</strong> Regionalized LCA-LCC · Scenario comparison · Environmental externality valuation</p>
+<p>This research at Shandong University evaluates four synthetic humic substance production pathways and their agricultural applications in China. A regionalized LCA-LCC framework compares environmental impacts, production costs, and monetized environmental externalities across crop systems, regions, and electricity scenarios.</p>
+<a class="project-portfolio-link" href="portfolio.html#soil">View portfolio</a>
 </article>
 <article class="project-entry" id="esiil">
-<p class="project-type">GEOSPATIAL ANALYSIS · ESIIL</p>
 <h3>Forest cover change across Colorado’s Front Range, 2001–2021</h3>
-<p>Collaborative research through CU Boulder’s Environmental Data Science Innovation &amp; Impact Lab (ESIIL), examining forest-cover change and land-cover transitions across Colorado’s Front Range.</p>
-<div class="project-output"><strong>AGU 2026 poster</strong><p>Accepted for presentation</p></div>
-<p>The analysis combines land-cover maps, elevation data, and burned-area layers to examine where forest cover changed and how those patterns vary across the landscape. Spatial overlap with burned areas is interpreted as an association rather than a causal estimate.</p>
-<p class="project-tools"><strong>Approach:</strong> Land-cover transition analysis · Spatial overlay · Elevation analysis<br><strong>Tools:</strong> Python · Google Earth Engine</p>
+<p>Collaborative research at CU Boulder’s Environmental Data Science Innovation and Impact Lab (ESIIL) examines forest-cover change across Colorado’s Front Range. Python and Google Earth Engine workflows combine land-cover, elevation, and burned-area data to analyze land-cover transitions and spatial patterns of forest loss.</p>
+<a class="project-portfolio-link" href="portfolio.html#forest">View portfolio</a>
 </article>
-<article class="project-entry project-entry-compact">
-<p class="project-type">ECONOMETRICS</p><h3>Wind power policy and corporate sustainability</h3>
-<p>Panel-data analysis of 58 listed wind-power firms from 2009 to 2021, using two-way fixed effects to examine policy and corporate sustainability, with mechanism, heterogeneity, and robustness analyses.</p>
+<article class="project-entry" id="wind-power">
+<h3>Wind power policy and corporate sustainability</h3>
+<p>This study examines how wind-power policy instruments relate to corporate sustainability using panel data from 58 listed firms between 2009 and 2021. Two-way fixed-effects models are complemented by mechanism, robustness, and heterogeneity analyses across ownership types and regions.</p>
 </article>
-<article class="project-entry project-entry-compact">
-<p class="project-type">EVOLUTIONARY GAME THEORY</p><h3>Renewable Portfolio Standards</h3>
-<p>A tripartite evolutionary game model of government, renewable-energy producers, and consumers. MATLAB simulations and sensitivity analyses examine how participant strategies evolve under alternative assumptions.</p>
+<article class="project-entry" id="renewable-standards">
+<h3>Renewable Portfolio Standards</h3>
+<p>A tripartite evolutionary game model examines interactions among government, renewable-energy producers, and consumers under Renewable Portfolio Standards. MATLAB simulations and sensitivity analyses explore how certificate prices, penalties, and transaction costs affect stakeholder strategies.</p>
 </article>
-<article class="project-entry project-entry-compact">
-<p class="project-type">APPLIED QUANTITATIVE ANALYSIS</p><h3>Industrial natural-gas customer heterogeneity</h3>
-<p>Collaborative analysis of customer value classification, using Gower dissimilarity and PAM clustering to identify patterns in mixed-type customer data.</p>
+<article class="project-entry" id="natural-gas">
+<h3>Industrial natural-gas customer heterogeneity</h3>
+<p>This collaborative study examines differences in industrial customer value and behavior in China’s downstream natural-gas market. Gower dissimilarity and PAM clustering in R group customers using consumption, economic, contractual, demand-response, and sustainability characteristics.</p>
 </article>
 </section>
 <section class="projects-group" id="technical-work" aria-labelledby="technical-work-title">
-<h2 id="technical-work-title">Model testing &amp; data work</h2>
+<h2 id="technical-work-title">Model Testing and Data Work</h2>
 <article class="project-entry" id="landengine">
-<p class="project-type">MODEL TESTING · LANDENGINE</p><h3>MEMS Grazing Scheduler testing</h3>
-<p>Technical testing during an internship with LandEngine at Colorado State University, focused on configuring grazing scenarios, running tests, and reviewing scheduler outputs.</p>
-<p>The work included site-specific input preparation, testing continuous, low-rotation, and adaptive multi-paddock scenarios, and documenting model setup and output checks.</p>
-<p class="project-tools"><strong>Work focus:</strong> Scenario configuration · Run testing · Output review · Documentation</p>
+<h3>MEMS Grazing Scheduler testing</h3>
+<p>Technical work at LandEngine, Colorado State University, focuses on testing the MEMS Grazing Scheduler with site-specific inputs and continuous, low-rotation, and adaptive multi-paddock grazing scenarios. Tasks include model setup, test runs, troubleshooting, output checks, and workflow documentation.</p>
+<a class="project-portfolio-link" href="portfolio.html#grazing">View portfolio</a>
 </article>
-<article class="project-entry project-entry-compact" id="fabio">
-<p class="project-type">AGRICULTURAL DATA</p><h3>China-specific FABIO framework</h3>
-<p>Agricultural, biomass, economic, and environmental data harmonization for a China-specific FABIO framework, including accounts and product-sector mappings covering 84 agricultural products.</p>
+<article class="project-entry" id="fabio">
+<h3>China-specific FABIO framework</h3>
+<p>Work on a China-specific Food and Agriculture Biomass Input-Output (FABIO) framework harmonizes agricultural, biomass, economic, and environmental data. Product-level flow accounts, mappings for 84 agricultural products, and environmental satellite accounts connect agricultural flows with environmental pressures.</p>
 </article>
-<article class="project-entry project-entry-compact">
-<p class="project-type">ENVIRONMENTAL ASSESSMENT</p><h3>Region-specific ESG evaluation</h3>
-<p>Comparison of ESG frameworks and development of evaluation approaches incorporating local environmental and economic conditions.</p>
+<article class="project-entry" id="esg">
+<h3>Region-specific ESG evaluation</h3>
+<p>This work compares ESG frameworks and develops evaluation approaches that incorporate local environmental and economic conditions.</p>
 </article>
 </section>
 </div>

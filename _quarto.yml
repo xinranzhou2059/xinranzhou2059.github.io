@@ -15,6 +15,8 @@ website:
         text: Projects
       - text: "Portfolio"
         href: portfolio.qmd
+      - href: outputs.qmd
+        text: Outputs
       - href: skills.qmd
         text: Skills
       - href: cv.qmd

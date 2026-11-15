@@ -1,0 +1,47 @@
+---
+title: "Research Outputs"
+toc: false
+---
+
+<div class="research-page outputs-page">
+<header><h1>Research Outputs</h1></header>
+<section class="outputs-group" aria-labelledby="manuscripts-title">
+<h2 id="manuscripts-title">Manuscript</h2>
+<article class="output-entry" id="shs-manuscript">
+<h3>Regional Environmental and Economic Performance of Synthetic Humic Substances for Low-Carbon Agricultural Transition in China.</h3>
+<p>Zhou, X., Ma, X., Hong, J., Li, N., Xu, M., Lei, T., and Zhong, H.</p>
+<p class="output-status">Submitted for peer review</p>
+</article></section>
+<section class="outputs-group" aria-labelledby="presentations-title">
+<h2 id="presentations-title">Conference Presentations</h2>
+<article class="output-entry" id="agu-poster">
+<h3>Two Decades of Forest Loss Across Colorado’s Front Range: Patterns and Drivers Along an Elevational Gradient.</h3>
+<p>Zhou, X., Guillen, C., Goldstein, M., Saif, M., and Duran, S. M.</p>
+<p>AGU Annual Meeting 2026.</p>
+<p class="output-status">Accepted for poster presentation</p>
+</article>
+<article class="output-entry" id="ecological-congress">
+<h3>Regional Environmental and Economic Performance of Synthetic Humic Substances for Low-Carbon Agricultural Transition in China.</h3>
+<p>Zhou, X., Ma, X., Hong, J., Li, N., Xu, M., Lei, T., and Zhong, H.</p>
+<p>24th Chinese Ecological Congress, Wuhan, China · 2025.</p>
+<p class="output-status">Oral presentation</p>
+</article></section>
+<section class="outputs-group" aria-labelledby="theses-title">
+<h2 id="theses-title">Theses</h2>
+<article class="output-entry">
+<h3>Regionalized Environmental-Economic Life Cycle Assessment and Development Strategies for Emerging Agricultural Synthetic Humic Substances.</h3>
+<p>Zhou, X. · Master’s thesis, Shandong University.</p>
+<p class="output-status">In progress</p>
+</article>
+<article class="output-entry">
+<h3>Multi-Actor Strategic Interactions under Renewable Portfolio Standards: An Evolutionary Game Analysis.</h3>
+<p>Zhou, X. (2024). · Bachelor’s thesis, China University of Geosciences (Wuhan).</p>
+</article></section>
+<section class="outputs-group" aria-labelledby="documentation-title">
+<h2 id="documentation-title">Technical Documentation</h2>
+<article class="output-entry" id="mems-guide">
+<h3>MEMS Grazing Scheduler user guide</h3>
+<p>Zhou, X. · LandEngine, Colorado State University.</p>
+<p>A user guide documenting the Grazing Scheduler–MEMS workflow, including model setup, grazing scenario testing, and output checks.</p>
+</article></section>
+</div>
