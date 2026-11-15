@@ -13,10 +13,8 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: outputs.qmd
-        text: Outputs
-      - href: skills.qmd
-        text: Skills
+      - href: research-profile.qmd
+        text: Research Profile
       - href: cv.qmd
         text: CV
         

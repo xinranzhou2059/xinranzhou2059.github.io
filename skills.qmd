@@ -1,28 +1,6 @@
 ---
-title: "Research Skills"
+title: "Research Profile"
 toc: false
 ---
 
-<div class="research-page skills-page">
-<header><h1>Research Skills</h1></header>
-<section class="skill-section">
-<h2>Economic and Quantitative Analysis</h2>
-<p>Panel-data econometrics · Evolutionary game modeling · Sensitivity analysis</p>
-<p class="skill-tools"><strong>Tools:</strong> R · Stata · MATLAB</p>
-</section>
-<section class="skill-section">
-<h2>Geospatial Analysis</h2>
-<p>Remote sensing · Land-cover change · Spatial analysis and visualization</p>
-<p class="skill-tools"><strong>Tools:</strong> Python · Google Earth Engine</p>
-</section>
-<section class="skill-section">
-<h2>Ecosystem Modeling and Testing</h2>
-<p>Model input preparation · Scenario testing · Troubleshooting and output interpretation</p>
-<p class="skill-tools"><strong>Tools:</strong> MEMS Grazing Scheduler (internship) · DayCent (coursework)</p>
-</section>
-<section class="skill-section">
-<h2>Environmental and Economic Assessment</h2>
-<p>Regionalized LCA-LCC · GHG accounting · Environmental externality valuation · Agricultural input–output accounting and environmental satellite accounts</p>
-<p class="skill-tools"><strong>Tools:</strong> SimaPro · openLCA · COMET-Farm</p>
-</section>
-</div>
+<p><a href="research-profile.html#skills">View Research Skills</a></p><script>location.replace("research-profile.html"+(location.hash||"#skills"));</script>
