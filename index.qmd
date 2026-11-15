@@ -16,8 +16,8 @@ toc: false
 <section class="research-section home-about" id="about">
   <p class="eyebrow">ABOUT ME</p>
   <h2>Background and research interests</h2>
-  <p>I am completing a Professional Science Master’s in Ecosystem Science &amp; Sustainability (Carbon Management) at Colorado State University, while pursuing an M.S. in Population, Resources &amp; Environmental Economics at Shandong University. I earned a B.A. in Economics from China University of Geosciences (Wuhan).</p>
-  <p>My experience spans life cycle assessment and costing, ecosystem modeling workflows, geospatial analysis, and quantitative economics—including panel-data econometrics, evolutionary game modeling, and agricultural input–output data analysis. I am interested in the economic feasibility and environmental trade-offs of agricultural and land-management decisions across different landscapes.</p>
+  <p>I am completing a Professional Science Master’s in Ecosystem Science &amp; Sustainability (Carbon Management) at Colorado State University, while pursuing an M.S. in Population, Resources &amp; Environmental Economics at Shandong University, China. I earned a B.A. in Economics from China University of Geosciences (Wuhan).</p>
+  <p>My experience includes environmental assessment, ecosystem modeling, geospatial analysis, and quantitative economic analysis. I have applied methods such as life cycle assessment and life cycle costing, panel-data econometrics, evolutionary game modeling, and agricultural input–output analysis. I am interested in the economic feasibility and environmental trade-offs of agricultural and land-management decisions across different landscapes.</p>
 </section>
 <section class="research-section">
   <p class="eyebrow">FEATURED WORK</p><h2>Research across landscapes and agricultural systems</h2>
