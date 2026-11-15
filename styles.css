@@ -170,3 +170,47 @@ div.quarto-about-jolla,
   font-size: 0.9rem;
   text-align: center;
 }
+
+/* 2026 research portfolio refresh; preserves existing Quarto navigation. */
+body { background:#f7faf8 !important; color:#19362d; }
+body, p, li, .content { font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif !important; }
+p, li { line-height:1.7; }
+main.content { max-width:1100px; width:100%; margin:0 auto !important; padding:1.2rem 1.5rem 3rem; }
+#quarto-margin-sidebar { display:none !important; }
+#quarto-content { display:block !important; }
+.portfolio-shell { max-width:1100px; margin:auto; }
+.research-page, .research-hero, .research-section { box-sizing:border-box; }
+.research-page { max-width:960px; margin:0 auto; }
+.research-page > h1,.research-hero h1 { color:#173f34; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; font-size:clamp(2rem,4vw,3.5rem); letter-spacing:-.035em; border:0; }
+.research-page h2,.research-section h2 { font-family:system-ui,-apple-system,"Segoe UI",sans-serif; font-size:clamp(1.3rem,2.2vw,1.75rem); letter-spacing:-.015em; color:#245a48; border:0; margin-top:0; }
+.research-page h3,.project-card h3,.three-column h3 { font-family:system-ui,-apple-system,"Segoe UI",sans-serif; color:#173e32; font-size:1.1rem; margin:.45rem 0; }
+.eyebrow,.project-type { font-family:system-ui,-apple-system,"Segoe UI",sans-serif; color:#48816f; font-size:.71rem !important; font-weight:750; text-transform:uppercase; letter-spacing:.14em; margin:0 0 .45rem; }
+.intro-lede,.research-subtitle { font-size:1.15rem !important; line-height:1.6; color:#355c51; font-weight:500; }
+.research-hero { display:grid; grid-template-columns:minmax(0,1.65fr) minmax(180px,.8fr); align-items:center; gap:2.5rem; padding:2rem 0 2.8rem; border-bottom:1px solid #d8e4dd; }
+.research-hero p { max-width:680px; }
+.research-portrait { display:flex; justify-content:center; }
+.research-portrait img { display:block; width:min(100%,260px); aspect-ratio:1/1; object-fit:cover; border-radius:24px; border:5px solid #fff; box-shadow:0 12px 38px rgba(32,74,58,.14); }
+.action-links { display:flex; align-items:center; flex-wrap:wrap; gap:1.1rem; margin-top:1.4rem; }
+.research-button { border-radius:8px; color:white !important; background:#24634e; padding:.68rem 1rem; font-weight:650; text-decoration:none !important; }
+.research-button:hover { background:#194836; }
+.research-link { font-weight:650; }
+.research-section { padding:2rem 0; border-bottom:1px solid #dce7e0; }
+.research-section.slim { padding:1.4rem 0; }
+.project-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1rem; margin:1.25rem 0 .3rem; }
+.project-card,.skill-panel { background:#fff; border:1px solid #dce6df; border-radius:14px; padding:1.2rem; box-shadow:0 4px 20px rgba(37,87,66,.035); min-width:0; }
+.project-card p,.skill-panel p { font-size:.94rem; line-height:1.6; }
+.project-card a { font-weight:600; }
+.three-column { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1.2rem; }
+.info-strip { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:.7rem; margin:1.7rem 0 0; }
+.info-strip>div { border-left:3px solid #96bcab; padding:.6rem .85rem; background:#eef5f0; }
+.info-strip strong,.detail-list strong { display:block; font-weight:700; color:#224e3f; }
+.info-strip span,.detail-list span { display:block; color:#4c665e; font-size:.9rem; line-height:1.55; }
+.detail-list>div { padding:.85rem 0; border-bottom:1px solid #e5ede8; }
+.skill-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; margin:1.25rem 0; }
+.skill-panel h2 { font-size:1.15rem; }
+.quiet { color:#637970; font-size:.9rem !important; }
+.result-inline { display:flex; align-items:center; gap:1rem; padding:1.2rem; border-left:4px solid #79ad94; background:#edf5ef; margin:1rem 0; }
+.result-inline strong { font-size:2rem; color:#285b48; }
+.result-inline span { color:#3f6053; font-size:.9rem; }
+.footer { background:#eef5ef !important; }
+@media(max-width:800px){main.content{padding:.9rem 1.1rem 2.1rem;} .research-hero { grid-template-columns:1fr; gap:.8rem; } .research-portrait { grid-row:1; justify-content:flex-start; } .research-portrait img{ width:150px; border-radius:18px; }.project-grid,.three-column,.info-strip,.skill-grid{grid-template-columns:1fr;} .research-section{padding:1.45rem 0;} .action-links{gap:.8rem;} }

@@ -1,39 +1,7 @@
-# Xinran Zhou – Academic Portfolio Website
+# Xinran Zhou — Academic Research Portfolio
 
-This repository contains my personal academic portfolio website built with Quarto and deployed through GitHub Pages.
+This Quarto / GitHub Pages site presents interdisciplinary research in environmental economics, environmental assessment, ecosystem modeling workflows, and geospatial analysis.
 
-## Website
+Website: https://xinranzhou2059.github.io/
 
-https://xinranzhou2059.github.io
-
-## About
-
-I am a graduate student in Ecosystem Science & Sustainability at Colorado State University. My research interests focus on:
-
-- Carbon management
-- Life cycle assessment (LCA)
-- Greenhouse gas inventories
-- Environmental data science
-- Sustainability assessment
-- Environmental-economic analysis
-
-## Website Features
-
-- Multi-page academic portfolio
-- Responsive website design
-- Custom CSS styling
-- Embedded CV
-- Research project portfolio
-- GitHub Pages deployment
-
-## Built With
-
-- Quarto
-- RStudio
-- HTML/CSS
-- GitHub Pages
-
-## Author
-
-Xinran Zhou  
-Colorado State University
+The `.qmd` files are the editable sources; `docs/` contains the published HTML. Keep both synchronized when publishing. The site's research descriptions differentiate collaborative findings from individual contributions. Private modeling repositories and unpublished project figures are not republished without permission.

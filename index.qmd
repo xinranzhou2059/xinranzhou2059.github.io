@@ -1,106 +1,28 @@
 ---
 title: "Xinran Zhou"
-image: profile.jpg
-
-about:
-  template: trestles
-  image-shape: rounded
-  image-width: 12em
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:zhou.xinran@colostate.edu
-
-    - icon: github
-      text: GitHub
-      href: https://github.com/xinranzhou2059
+toc: false
 ---
 
-::: intro-title
-Graduate Student in Ecosystem Science & Sustainability\
-Colorado State University
-:::
-
-Focused on carbon management, environmental data science, and sustainability assessment through life cycle analysis, greenhouse gas accounting, and quantitative environmental-economic research.
-
-------------------------------------------------------------------------
-
-## Research Interests
-
-My research interests focus on carbon management, greenhouse gas inventories, life cycle assessment (LCA), and environmental-economic analysis. I am particularly interested in applying quantitative modeling and data-driven methods to support low-carbon decision-making in agriculture and energy systems.
-
-------------------------------------------------------------------------
-
-## Current Research
-
-### LCA-LCC Assessment of Synthetic Humic Substance (SHS) Production and Agricultural Application
-
-- First-author research on four hydrothermal humification technologies for SHS production in China
-- Evaluating environmental impacts, economic costs, and process hotspots
-- Assessing mitigation potential under regional energy transition scenarios
-- Using Simapro, CHINA-SDU-LCIA, and province-level analysis frameworks
-
-### Greenhouse Gas Inventory Analysis
-
-- Estimating emissions using IPCC-based methods and process-based models
-- Conducting mitigation analysis in R and COMET-Farm
-- Developing scenario-based mitigation strategies for agricultural systems
-
-### Environmental Data Science Applications
-
-- Cleaning, analyzing, and visualizing environmental datasets in R
-- Producing reproducible sustainability analyses and technical reports
-- Applying statistical methods to evaluate environmental indicators and emissions trends
-
-------------------------------------------------------------------------
-
-## Technical Skills
-
-### Environmental Assessment
-
-- Life Cycle Assessment (LCA)
-- Life Cycle Costing (LCC)
-- Greenhouse Gas Inventories
-- Input-Output Analysis
-
-### Programming & Software
-
-- R
-- MATLAB
-- Stata
-- OpenLCA
-- SimaPro
-- COMET-Farm
-
-### Data Analysis & Reporting
-
-- R Markdown
-- Quarto
-- Microsoft Excel
-- Origin
-- Reproducible Reporting
-
-------------------------------------------------------------------------
-
-## Education
-
-### Colorado State University
-
-Professional Science Master in Ecosystem Science & Sustainability (Carbon Management)
-
-### Shandong University, China
-
-M.S. in Population, Resources & Environmental Economics
-
-### China University of Geosciences (Wuhan), China
-
-B.A. in Economics, with Distinction
-
-------------------------------------------------------------------------
-
-## Selected Honors
-
-- National Scholarship (2023), China
-- National Energy Economics Innovation Competition, Second Prize (National-level), China
-- International “Internet+” Innovation & Entrepreneurship Competition, Bronze Award, China
-- National English Debate Competition, Third Prize, China
+<div class="research-hero">
+  <div class="research-hero-copy">
+    <p class="eyebrow">INTERDISCIPLINARY ENVIRONMENTAL RESEARCH</p>
+    <h1>Xinran Zhou</h1>
+    <p class="research-subtitle">Environmental economics · Ecosystem science · Geospatial analysis</p>
+    <p>I study how economic decisions, environmental processes, and spatial patterns shape agricultural and land-management outcomes. My work brings together economics, life cycle assessment, ecosystem modeling workflows, and geospatial analysis.</p>
+    <div class="action-links"><a class="research-button" href="projects.html">Explore research</a><a class="research-link" href="portfolio.html">Research portfolio</a><a class="research-link" href="mailto:zhou.xinran@colostate.edu">Email</a></div>
+  </div>
+  <div class="research-portrait"><img src="profile.jpg" alt="Portrait of Xinran Zhou"></div>
+</div>
+<section class="research-section">
+  <p class="eyebrow">FEATURED WORK</p><h2>Research across landscapes and agricultural systems</h2>
+  <div class="project-grid">
+    <article class="project-card"><span class="project-type">GEOSPATIAL RESEARCH</span><h3>Forest change across Colorado’s Front Range</h3><p>Python and Google Earth Engine analysis of land-cover transitions, elevation, and wildfire overlap, 2001–2021.</p><a href="projects.html#esiil">View project</a></article>
+    <article class="project-card"><span class="project-type">ENVIRONMENTAL ECONOMICS</span><h3>Environmental and economic assessment of soil amendments</h3><p>Regionalized LCA/LCC of synthetic humic substance pathways and modeled agricultural applications in China.</p><a href="projects.html#shs">View project</a></article>
+    <article class="project-card"><span class="project-type">AGROECOSYSTEM MODELING</span><h3>Grazing-management scenario workflows</h3><p>MEMS scenario testing, output interpretation, and land-carbon accounting at LandEngine.</p><a href="projects.html#landengine">View project</a></article>
+  </div>
+</section>
+<section class="research-section">
+  <p class="eyebrow">RESEARCH APPROACH</p><h2>Connecting methods without overstating their integration</h2>
+  <div class="three-column"><div><h3>Economic analysis</h3><p>Econometrics, evolutionary game modeling, life cycle costing, and assessment of environmental externalities.</p></div><div><h3>Environmental systems</h3><p>LCA, greenhouse gas accounting, grazing scenarios, and soil-carbon model workflows.</p></div><div><h3>Spatial evidence</h3><p>Remote sensing, land-cover data, GIS-style overlays, and elevation-based analysis.</p></div></div>
+</section>
+<section class="research-section slim"><h2>Current academic background</h2><p>Professional Science Master’s in Ecosystem Science &amp; Sustainability (Carbon Management), Colorado State University; M.S. studies in Population, Resources &amp; Environmental Economics, Shandong University; B.A. in Economics, China University of Geosciences (Wuhan).</p><p class="quiet">For research experience and outputs, see <a href="projects.html">Projects</a>, <a href="about.html">About</a>, and <a href="cv.html">Academic CV overview</a>.</p></section>

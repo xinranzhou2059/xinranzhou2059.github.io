@@ -1,15 +1,11 @@
 ---
-title: "Curriculum Vitae"
+title: "Academic CV"
+toc: false
 ---
 
-You can view or download my CV below.
-
-[Download CV](Resume_Xinran_Zhou.pdf)
-
-------------------------------------------------------------------------
-
-## Embedded CV
-
-<iframe src="Resume_Xinran_Zhou.pdf" width="100%" height="900px">
-
-</iframe>
+<div class="research-page"><p class="eyebrow">BACKGROUND &amp; EXPERIENCE</p><h1>Academic CV</h1><p class="intro-lede">A public overview of my academic preparation, research experience, and selected outputs.</p>
+<section class="research-section"><h2>Education</h2><div class="detail-list"><div><strong>Colorado State University</strong><span>Professional Science Master’s in Ecosystem Science &amp; Sustainability (Carbon Management); degree expected January 2027.</span></div><div><strong>Shandong University</strong><span>M.S. in Population, Resources &amp; Environmental Economics; expected June 2027.</span></div><div><strong>China University of Geosciences (Wuhan)</strong><span>B.A. in Economics, with Distinction; 2024.</span></div></div></section>
+<section class="research-section"><h2>Selected research experience</h2><div class="detail-list"><div><strong>Research Intern · LandEngine, Colorado State University</strong><span>2026–present · MEMS/DayCent workflows, grazing management scenarios, land-carbon accounting.</span></div><div><strong>Research Assistant · Shandong University</strong><span>2024–2026 · SHS LCA/LCC research and China-specific agricultural biomass input–output framework.</span></div><div><strong>Research Intern · ESIIL, CU Boulder</strong><span>2026 · Python/GEE analysis of forest-cover change and wildfire/elevation patterns.</span></div><div><strong>Economics research · China University of Geosciences (Wuhan)</strong><span>2021–2024 · econometrics, evolutionary game modeling, energy-policy and data-analysis projects.</span></div></div><p><a href="projects.html">Read detailed projects and methods</a>.</p></section>
+<section class="research-section"><h2>Selected research outputs</h2><p>AGU 2026 poster accepted for presentation: <em>Two Decades of Forest Loss Across Colorado’s Front Range: Patterns and Drivers Along an Elevational Gradient.</em></p><p>Oral presentation, Chinese Ecological Congress (2025): environmental and economic assessment of synthetic humic substances for agricultural applications.</p><p>Bachelor’s thesis (2024): <em>Multi-Actor Strategic Interactions under Renewable Portfolio Standards: An Evolutionary Game Analysis.</em></p></section>
+<section class="research-section slim"><h2>Request a current CV</h2><p>For an up-to-date academic CV, please <a href="mailto:zhou.xinran@colostate.edu?subject=Academic%20CV%20Request">contact me by email</a>. A downloadable public CV will be added after the general-purpose version is finalized. Application-specific cover letters and referee contact details are not included on this public site.</p></section>
+</div>

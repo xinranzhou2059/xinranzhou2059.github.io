@@ -1,53 +1,14 @@
 ---
-title: "About Me"
+title: "About"
+toc: false
 ---
 
-I am a graduate student in Ecosystem Science & Sustainability at Colorado State University with a focus on carbon management, environmental assessment, and environmental data science.
-
-My academic background combines environmental economics, sustainability assessment, and quantitative analysis. Before joining Colorado State University, I studied economics and environmental-economic systems in China, where I became interested in the relationship between environmental sustainability, energy systems, and climate policy.
-
-My current research interests include life cycle assessment (LCA), greenhouse gas inventories, carbon accounting, environmental-economic modeling, and sustainability analysis. I am particularly interested in applying quantitative and data-driven approaches to support low-carbon decision-making in agriculture and energy systems.
-
-------------------------------------------------------------------------
-
-## Research Philosophy
-
-I am interested in interdisciplinary approaches that integrate environmental science, economics, and data analysis to better understand sustainability challenges and climate mitigation pathways.
-
-I believe combining quantitative modeling, environmental assessment, and policy analysis can help support more practical and evidence-based sustainability decisions.
-
-------------------------------------------------------------------------
-
-## Academic Interests
-
-- Carbon Management
-- Life Cycle Assessment (LCA)
-- Greenhouse Gas Inventories
-- Environmental Data Science
-- Environmental Economics
-- ESG & Sustainability
-- Agricultural Sustainability
-
-------------------------------------------------------------------------
-
-## Current Focus
-
-My recent work includes:
-
-- LCA-LCC assessment of Synthetic Humic Substance (SHS) production
-- Greenhouse gas inventory analysis using IPCC methods
-- Environmental-economic modeling and sustainability analysis
-- Renewable energy and climate policy research
-
-------------------------------------------------------------------------
-
-## Professional Interests
-
-I am interested in future opportunities related to:
-
-- Sustainability research
-- Carbon accounting and mitigation
-- ESG analysis
-- Environmental consulting
-- Climate and energy policy
-- Environmental data analytics
+<div class="research-page"><p class="eyebrow">BACKGROUND</p><h1>About</h1>
+<p class="intro-lede">My interests lie at the intersection of environmental economics, ecosystem science, and spatial data analysis.</p>
+<p>I am completing a Professional Science Master’s in Ecosystem Science &amp; Sustainability (Carbon Management) at Colorado State University (degree expected January 2027), while pursuing an M.S. in Population, Resources &amp; Environmental Economics at Shandong University (expected June 2027). I earned a B.A. in Economics from China University of Geosciences (Wuhan).</p>
+<p>My research experience includes regional life cycle assessment and costing of agricultural soil amendments, testing grazing-management scenarios with MEMS at LandEngine, and analyzing forest-cover change using Python and Google Earth Engine at CU Boulder’s ESIIL. Earlier projects involved panel-data econometrics, evolutionary game modeling, and agricultural input–output data integration.</p>
+<p>I am particularly interested in research that makes environmental and economic trade-offs explicit while accounting for differences across technologies, management practices, and landscapes. I hope to strengthen connections among these complementary methods through further research.</p>
+<div class="info-strip"><div><strong>Economics</strong><span>Costing · Incentives · Econometrics</span></div><div><strong>Environmental assessment</strong><span>LCA/LCC · GHG accounting</span></div><div><strong>Spatial &amp; ecosystem analysis</strong><span>Python/GEE · MEMS workflows</span></div></div>
+<section class="research-section"><h2>Research principles</h2><p>I aim to distinguish modeled scenarios from measured outcomes, spatial association from causation, and my specific contributions from collaborative project results. Methods and conclusions should be clear enough to support critical interpretation and real-world decisions.</p></section>
+<section class="research-section"><h2>Education</h2><div class="detail-list"><div><strong>Colorado State University</strong><span>Professional Science Master’s · Ecosystem Science &amp; Sustainability (Carbon Management) · Degree expected January 2027</span></div><div><strong>Shandong University</strong><span>M.S. · Population, Resources &amp; Environmental Economics · Expected June 2027</span></div><div><strong>China University of Geosciences (Wuhan)</strong><span>B.A. · Economics · 2024</span></div></div></section>
+<p class="quiet">Email: <a href="mailto:zhou.xinran@colostate.edu">zhou.xinran@colostate.edu</a> · <a href="https://www.linkedin.com/in/xinran-zhou6/">LinkedIn</a></p></div>

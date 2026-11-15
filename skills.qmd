@@ -1,64 +1,13 @@
 ---
-title: "Technical Skills"
+title: "Research Skills"
+toc: false
 ---
 
-## Environmental Assessment & Sustainability
-
-- Life Cycle Assessment (LCA)
-- Life Cycle Costing (LCC)
-- Greenhouse Gas Inventories
-- Input-Output Analysis
-- Carbon Accounting
-- Sustainability Assessment
-
-------------------------------------------------------------------------
-
-## Programming & Quantitative Analysis
-
-- R
-- MATLAB
-- Stata
-- Statistical Analysis
-- Scenario Analysis
-- Environmental-Economic Modeling
-
-------------------------------------------------------------------------
-
-## Software & Platforms
-
-- OpenLCA
-- SimaPro
-- COMET-Farm
-- Quarto
-- R Markdown
-- Microsoft Excel
-- Origin
-
-------------------------------------------------------------------------
-
-## Environmental Data Science
-
-- Data Cleaning
-- Data Visualization
-- Reproducible Reporting
-- Environmental Dataset Analysis
-- Sustainability Metrics Analysis
-
-------------------------------------------------------------------------
-
-## Research Areas
-
-- Carbon Management
-- Environmental Economics
-- ESG Evaluation
-- Renewable Energy Policy
-- Agricultural Sustainability
-- Soil Carbon
-- Greenhouse Gas Mitigation
-
-------------------------------------------------------------------------
-
-## Languages
-
-- Mandarin Chinese (Native)
-- English (Fluent)
+<div class="research-page"><p class="eyebrow">METHODS &amp; TOOLS</p><h1>Research skills</h1><p class="intro-lede">Methods used in research projects, coursework, and modeling workflows. Proficiency and depth vary by tool and application.</p>
+<div class="skill-grid">
+<section class="skill-panel"><h2>Economic &amp; quantitative analysis</h2><p>Panel-data econometrics · two-way fixed effects · heterogeneity and robustness analysis · evolutionary game modeling · scenario and sensitivity analysis</p><p class="quiet">R · Stata · MATLAB</p></section>
+<section class="skill-panel"><h2>Geospatial analysis</h2><p>Land-cover transition analysis · spatial overlay · burned-area and elevation datasets · area estimation · visualization</p><p class="quiet">Python · Google Earth Engine · NLCD · DEM</p></section>
+<section class="skill-panel"><h2>Agroecosystem modeling</h2><p>Management-scenario testing · site-specific input preparation · model troubleshooting · interpretation of soil carbon and nitrogen outputs</p><p class="quiet">MEMS Grazing Scheduler · DayCent workflows</p></section>
+<section class="skill-panel"><h2>Environmental &amp; economic assessment</h2><p>Life cycle assessment · life cycle costing · regionalized assessment · greenhouse gas inventories · environmental externality assessment</p><p class="quiet">SimaPro · openLCA · COMET-Farm</p></section>
+</div>
+<section class="research-section slim"><h2>Additional experience</h2><p>Input–output data integration, agricultural biomass flow accounting, environmental satellite accounts, reproducible documentation, and research communication.</p><h2>Languages</h2><p>Mandarin Chinese (native) · English (fluent)</p></section></div>
