@@ -11,7 +11,7 @@ toc: false
     <p>I use quantitative methods to examine environmental and economic questions in agriculture, ecosystems, and land management.</p>
     <div class="profile-contact" aria-label="Contact"><a href="mailto:zhou.xinran@colostate.edu" aria-label="Email Xinran Zhou">Email</a><a href="https://www.linkedin.com/in/xinran-zhou6/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
   </div>
-  <div class="research-portrait"><img src="profile.jpg" alt="Portrait of Xinran Zhou"></div>
+  <div class="research-portrait"><img src="portrait-original.jpg" width="1440" height="1922" fetchpriority="high" alt="Xinran Zhou, head-and-shoulders portrait"></div>
 </div>
 <section class="research-section home-about" id="about">
   <p class="eyebrow">ABOUT ME</p>
