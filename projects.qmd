@@ -25,10 +25,6 @@ toc: false
 <h3>Renewable Portfolio Standards</h3>
 <p>A tripartite evolutionary game model examines interactions among government, renewable-energy producers, and consumers under Renewable Portfolio Standards. MATLAB simulations and sensitivity analyses explore how certificate prices, penalties, and transaction costs affect stakeholder strategies.</p>
 </article>
-<article class="project-entry" id="natural-gas">
-<h3>Industrial natural-gas customer heterogeneity</h3>
-<p>This collaborative study examines differences in industrial customer value and behavior in China’s downstream natural-gas market. Gower dissimilarity and PAM clustering in R group customers using consumption, economic, contractual, demand-response, and sustainability characteristics.</p>
-</article>
 </section>
 <section class="projects-group" id="technical-work" aria-labelledby="technical-work-title">
 <h2 id="technical-work-title">Model Testing and Data Work</h2>
@@ -40,10 +36,6 @@ toc: false
 <article class="project-entry" id="fabio">
 <h3>China-specific FABIO framework</h3>
 <p>Work on a China-specific Food and Agriculture Biomass Input-Output (FABIO) framework harmonizes agricultural, biomass, economic, and environmental data. Product-level flow accounts, mappings for 84 agricultural products, and environmental satellite accounts connect agricultural flows with environmental pressures.</p>
-</article>
-<article class="project-entry" id="esg">
-<h3>Region-specific ESG evaluation</h3>
-<p>This work compares ESG frameworks and develops evaluation approaches that incorporate local environmental and economic conditions.</p>
 </article>
 </section>
 </div>
